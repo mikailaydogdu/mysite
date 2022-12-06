@@ -23,7 +23,7 @@ const Footer = () => {
                 rel="noreferrer"
                 className={`border ${themeSwitcher.link} px-4 py-3 text-sm border rounded-md shadow-lg`}
             >
-                Inspired by <span className="text-indigo-600">GitProfile</span> and build with ❤️
+               <span className="text-indigo-600">Mikail Aydoğdu</span> 
             </a>
         </div>
     );
